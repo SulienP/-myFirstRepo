@@ -9,10 +9,9 @@
 
 
 
-```javascript
-var prenom = 'quentin';
-console.log('bonjour ' + prenom);
-
+```python
+ prénom=input("Quel est ton prénom?")
+print("Ton prénom est" prénom " et clique ici por favor https://www.youtube.com/watch?v=auCeJ8Nu2Ok&ab_channel=GuitarSound-Laguitarefacilepourtous")
 
 
 
